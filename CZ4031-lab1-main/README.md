@@ -1,5 +1,17 @@
 # Usage
 
+This is a backup version of our group project.
+
+orignal contributor:
+
+@botbw
+
+@king159
+
+@Li-Jiayi-hahaha
+
+@WYing333
+
 ## For Windows user, make sure you installed `MINGW` and configured `g++` correctly:
 1. Go to project folder
 2. Compile the main.cpp
