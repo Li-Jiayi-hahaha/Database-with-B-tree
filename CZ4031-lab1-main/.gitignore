@@ -1,0 +1,9 @@
+/.vs
+/.vscode
+/.idea
+/out
+*.exe
+cmake-build-debug
+CMakeLists.txt
+lab.exe
+*.txt
